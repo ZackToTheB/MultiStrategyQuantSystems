@@ -6,3 +6,4 @@ flask_session
 unit-tests
 **/__pychache__
 .DS_Store
+Data/
